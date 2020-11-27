@@ -4,7 +4,7 @@
 - 🌍 I am from Argentina
 - 🥑 I am currently learning web development
 - 📚 Secondary studies in progress
-- 🎯 I am currently studying in the Inst. Ind. Luis A. Huergo
+- 🎯 I am currently studying in the Inst. Ind. Luis A. Huergo.
 
 
 
