@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Theo</h1>
 <h3 align="center">I am a programming student</h3>
-<a href="#"><img width="auto" height="auto" src="https://i.pinimg.com/originals/b5/6d/97/b56d97261dd6d5a772b976ae14a518e4.jpg" height="175px"/></a>
+<a href="#"><img width="auto" height="auto" src="https://wallpapercave.com/wp/wp4785064.gif" height="175px"/></a>
 
 
 
