@@ -14,8 +14,6 @@
 
 - 🎯 I am currently studying in the Inst. Ind. Luis A. Huergo.
 
-- 📫 How to reach me **theo.j.sanchezpintor@gmail.com**
-
 <!--
 ## 🚀 Languages and Tools:
 
