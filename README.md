@@ -10,7 +10,7 @@
 
 - 🥑 I am currently learning web development
 
-- 📚 studying at the University
+- 📚 Studying at the University
 
 - 🎯 I am currently studying in the UTN.
 
