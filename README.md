@@ -10,9 +10,9 @@
 
 - 🥑 I am currently learning web development
 
-- 📚 Secondary studies in progress
+- 📚 studying at the University
 
-- 🎯 I am currently studying in the Inst. Ind. Luis A. Huergo.
+- 🎯 I am currently studying in the UTN.
 
 <!--
 ## 🚀 Languages and Tools:
