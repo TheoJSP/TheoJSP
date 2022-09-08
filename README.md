@@ -8,11 +8,12 @@
 
 - 🌍 I am from Argentina
 
+- 💻 I am currently support it at ardison software 
+
 - 🥑 I am currently learning web development
 
 - 📚 Studying at the University
 
-- 🎯 I am currently studying in the UTN.
 
 <!--
 ## 🚀 Languages and Tools:
