@@ -8,7 +8,7 @@
 
 - 🌍 I am from Argentina
 
-- 💻 I am currently support IT at ardison software 
+- 💻 I am currently support IT 
 
 - 🥑 I am currently learning web development
 
