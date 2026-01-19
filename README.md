@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Theo</h1>
-<h3 align="center">I am a programming student</h3>
+<h3 align="center">I am a systems administrator</h3>
 <a href="#"><img width="auto" height="auto" src="https://wallpapercave.com/wp/wp4785064.gif" height="175px"/></a>
 
 
