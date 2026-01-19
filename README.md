@@ -8,9 +8,9 @@
 
 - 🌍 I am from Argentina
 
-- 💻 I am currently support IT 
+- 💻 I am currently SysAdmin
 
-- 🥑 I am currently learning web development
+- 🥑 I am currently Cybersecurity and infrastructure
 
 - 📚 Studying at the University
 
